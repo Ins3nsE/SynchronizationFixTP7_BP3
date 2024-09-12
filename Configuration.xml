@@ -67,6 +67,8 @@
 			<Language>Русский</Language>
 			<Role>ИО_ОсновнаяРоль</Role>
 			<CommonModule>МенеджерОбменаЧерезУниверсальныйФормат</CommonModule>
+			<Catalog>ДоговорыВзаиморасчетов</Catalog>
+			<Catalog>Организации</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

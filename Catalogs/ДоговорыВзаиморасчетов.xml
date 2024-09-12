@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Catalog uuid="c900f782-26b9-46d6-9f03-52529a7592ee">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДоговорыВзаиморасчетов" category="Object">
+				<xr:TypeId>35e453e2-5f22-4c08-aec0-287486cf51e8</xr:TypeId>
+				<xr:ValueId>b670b565-2ed8-4787-b934-874f7c5fd708</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДоговорыВзаиморасчетов" category="Ref">
+				<xr:TypeId>4723f6aa-b9f8-448a-ab2d-d67be5a42b67</xr:TypeId>
+				<xr:ValueId>df86e047-4c14-47d2-b5e8-8b44abd6c1fb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДоговорыВзаиморасчетов" category="Selection">
+				<xr:TypeId>2f9e4334-8081-4ab8-b904-b9c28ef35c6d</xr:TypeId>
+				<xr:ValueId>9f4c28f2-73e7-4502-8597-a1661f88bb30</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДоговорыВзаиморасчетов" category="List">
+				<xr:TypeId>88225d21-b097-47c7-8bbf-ab3e5e0b579d</xr:TypeId>
+				<xr:ValueId>5312b40b-0adb-46a1-878f-b4b9bcc6d861</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДоговорыВзаиморасчетов" category="Manager">
+				<xr:TypeId>49729af0-d8ff-4342-9d16-d1df699822e4</xr:TypeId>
+				<xr:ValueId>bda2cbeb-ff84-4783-a661-409bd8ba2d30</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ДоговорыВзаиморасчетов</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>dd89e8cd-c2de-40d3-b1e1-0a74d5b76bd6</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="c213cd27-642c-437e-a787-5353148cedb3">
+				<InternalInfo/>
+				<Properties>
+					<Name>Фирма</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>1f66367c-96ad-4f27-a414-9edd9db9e638</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Организации</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>
