@@ -1,4 +1,4 @@
-#SynchronizationFixTP7_BP3 
+# SynchronizationFixTP7_BP3 
 Расширение для Штрих-М: Торговое предприятие, редакция 7.0.
 Исправляет синхронизацию между Штрих-М ТП7 и Бухгалтерия 3.0 через EnterpriseData.
 
