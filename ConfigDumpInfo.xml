@@ -1,15 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
 	<ConfigVersions>
-		<Metadata name="Catalog.ДоговорыВзаиморасчетов" id="c900f782-26b9-46d6-9f03-52529a7592ee" configVersion="6cab23da66fbded4f77335d73019a28dd4115703">
-			<Metadata name="Catalog.ДоговорыВзаиморасчетов.Attribute.Фирма" id="c213cd27-642c-437e-a787-5353148cedb3"/>
-		</Metadata>
-		<Metadata name="Catalog.ДоговорыВзаиморасчетов.ObjectModule" id="c900f782-26b9-46d6-9f03-52529a7592ee.0" configVersion="eba4ae0ae2fdb62bdc590bf6ef571ea370d23e38"/>
-		<Metadata name="Catalog.Организации" id="dc7333ec-9a91-4512-a0ea-f60d882401be" configVersion="0224c15486d51e6f6a3b187efd1100f1bd5cf74d"/>
-		<Metadata name="CommonModule.МенеджерОбменаЧерезУниверсальныйФормат" id="7163f3f4-05d7-4dcd-a923-58b6084b4a7e" configVersion="e2c1b280aa50e15dd6829cd88dcfe0325a029aaf"/>
-		<Metadata name="CommonModule.МенеджерОбменаЧерезУниверсальныйФормат.Module" id="7163f3f4-05d7-4dcd-a923-58b6084b4a7e.0" configVersion="816f26e402de9eae441261180201489f30c5839a"/>
-		<Metadata name="Configuration.ИсправлениеОбменаБП30" id="3ed7dd11-9efe-4b67-b49a-132e2b8f4060" configVersion="12b1916885657c817e3416da331a2041064629b4"/>
+		<Metadata name="CommonModule.МенеджерОбменаЧерезУниверсальныйФормат" id="7163f3f4-05d7-4dcd-a923-58b6084b4a7e" configVersion="ae4e5f36106d45fb21b943067d4febc63497a2cc"/>
+		<Metadata name="CommonModule.МенеджерОбменаЧерезУниверсальныйФормат.Module" id="7163f3f4-05d7-4dcd-a923-58b6084b4a7e.0" configVersion="7dae519860da6dabcefca864bb318c021f4c4ce6"/>
+		<Metadata name="Configuration.ИсправлениеОбменаБП30" id="3ed7dd11-9efe-4b67-b49a-132e2b8f4060" configVersion="afa025eb48daa028ccaadb88428b2df8a211b950"/>
 		<Metadata name="Language.Русский" id="18d13961-59d7-42e4-ad27-6ea642ba2439" configVersion="c7d57202d450a685cdf9fd214e9862f1c4c78ea0"/>
-		<Metadata name="Role.ИО_ОсновнаяРоль" id="29f20ef0-620b-4aad-9322-a04c24e380e3" configVersion="edec811c9cbdd2f35685ebb2e53c59c241b58e1a"/>
+		<Metadata name="Role.ИО_ОсновнаяРоль" id="29f20ef0-620b-4aad-9322-a04c24e380e3" configVersion="6c001d93148119b4923b2cf8104fe65915b6ae3d"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
